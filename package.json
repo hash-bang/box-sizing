@@ -1,0 +1,26 @@
+{
+  "name": "box-sizing",
+  "version": "1.0.0",
+  "description": "Box positioning calculations helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "box",
+    "rect",
+    "window",
+    "positioning",
+    "resize",
+    "calculation"
+  ],
+  "author": "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}

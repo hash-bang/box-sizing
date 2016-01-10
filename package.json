@@ -1,7 +1,7 @@
 {
   "name": "box-sizing",
-  "version": "1.0.0",
-  "description": "Box positioning calculations helper",
+  "version": "1.0.1",
+  "description": "Box positioning calculations helper - CSS block style positioning for screen widgets",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -16,6 +16,10 @@
   ],
   "author": "Matt Carter <m@ttcarter.com> (https://github.com/hash-bang)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/box-sizing/issues"
+  },
+  "homepage": "https://github.com/hash-bang/box-sizing",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
